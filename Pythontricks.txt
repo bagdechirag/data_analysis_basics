@@ -1,0 +1,14 @@
+Quick jupyter tip for anyone: You can run commands in the notebook by starting your line with "!". You can even use python variables in the command. 
+
+
+Example: 
+
+
+path = 'data/minwage.csv' 
+ !head {path}
+
+
+or
+
+
+!pip install matplotlib
